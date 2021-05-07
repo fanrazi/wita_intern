@@ -59,7 +59,7 @@
 
           if(!empty($lokasi))
           {
-            $koneksi->query("UPDATE tiket_int SET nama_t='$_POST[t_nama]', id_mas='5',
+            $koneksi->query("UPDATE tiket_int SET nama_t='$_POST[t_nama]', id_mas='8',
                   nama_file='$nama[0]', file='$path' WHERE id='$_GET[id]'");
 
             move_uploaded_file($lokasi, $path);
@@ -67,7 +67,7 @@
           }
           else
           {
-            $koneksi->query("UPDATE tiket_int SET nama_t='$_POST[t_nama]', id_mas='5' WHERE id='$_GET[id]'");
+            $koneksi->query("UPDATE tiket_int SET nama_t='$_POST[t_nama]', id_mas='8' WHERE id='$_GET[id]'");
           }  
           echo "<div class='alert alert-info'>Data Telah Diubah</div>";
           echo "<meta http-equiv='refresh' content='1;url=index.php?halaman=t_int_af'>";

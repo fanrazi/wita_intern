@@ -680,6 +680,342 @@ include './inc/koneksi.php';
             {
                 include 't_int_am_del.php';
             }
+            elseif ($_GET['halaman']=="t_int_as")
+            {
+                include 't_int_as.php';
+            }
+            elseif ($_GET['halaman']=="t_int_as_edit")
+            {
+                include 't_int_as_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_as_del")
+            {
+                include 't_int_as_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ba")
+            {
+                include 't_int_ba.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ba_edit")
+            {
+                include 't_int_ba_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ba_del")
+            {
+                include 't_int_ba_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ca")
+            {
+                include 't_int_ca.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ca_edit")
+            {
+                include 't_int_ca_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ca_del")
+            {
+                include 't_int_ca_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_cs")
+            {
+                include 't_int_cs.php';
+            }
+            elseif ($_GET['halaman']=="t_int_cs_edit")
+            {
+                include 't_int_cs_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_cs_del")
+            {
+                include 't_int_cs_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ac")
+            {
+                include 't_int_ac.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ac_edit")
+            {
+                include 't_int_ac_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ac_del")
+            {
+                include 't_int_ac_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_et")
+            {
+                include 't_int_et.php';
+            }
+            elseif ($_GET['halaman']=="t_int_et_edit")
+            {
+                include 't_int_et_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_et_del")
+            {
+                include 't_int_et_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_eh")
+            {
+                include 't_int_eh.php';
+            }
+            elseif ($_GET['halaman']=="t_int_eh_edit")
+            {
+                include 't_int_eh_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_eh_del")
+            {
+                include 't_int_eh_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ev")
+            {
+                include 't_int_ev.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ev_edit")
+            {
+                include 't_int_ev_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ev_del")
+            {
+                include 't_int_ev_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_gr")
+            {
+                include 't_int_gr.php';
+            }
+            elseif ($_GET['halaman']=="t_int_gr_edit")
+            {
+                include 't_int_gr_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_gr_del")
+            {
+                include 't_int_gr_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ha")
+            {
+                include 't_int_ha.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ha_edit")
+            {
+                include 't_int_ha_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ha_del")
+            {
+                include 't_int_ha_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_hw")
+            {
+                include 't_int_hw.php';
+            }
+            elseif ($_GET['halaman']=="t_int_hw_edit")
+            {
+                include 't_int_hw_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_hw_del")
+            {
+                include 't_int_hw_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_hk")
+            {
+                include 't_int_hk.php';
+            }
+            elseif ($_GET['halaman']=="t_int_hk_edit")
+            {
+                include 't_int_hk_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_hk_del")
+            {
+                include 't_int_hk_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ic")
+            {
+                include 't_int_ic.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ic_edit")
+            {
+                include 't_int_ic_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ic_del")
+            {
+                include 't_int_ic_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_jp")
+            {
+                include 't_int_jp.php';
+            }
+            elseif ($_GET['halaman']=="t_int_jp_edit")
+            {
+                include 't_int_jp_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_jp_del")
+            {
+                include 't_int_jp_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_jp")
+            {
+                include 't_int_jp.php';
+            }
+            elseif ($_GET['halaman']=="t_int_jp_edit")
+            {
+                include 't_int_jp_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_jp_del")
+            {
+                include 't_int_jp_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_js")
+            {
+                include 't_int_js.php';
+            }
+            elseif ($_GET['halaman']=="t_int_js_edit")
+            {
+                include 't_int_js_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_js_del")
+            {
+                include 't_int_js_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_kn")
+            {
+                include 't_int_kn.php';
+            }
+            elseif ($_GET['halaman']=="t_int_kn_edit")
+            {
+                include 't_int_kn_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_kn_del")
+            {
+                include 't_int_kn_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ko")
+            {
+                include 't_int_ko.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ko_edit")
+            {
+                include 't_int_ko_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ko_del")
+            {
+                include 't_int_ko_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ma")
+            {
+                include 't_int_ma.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ma_edit")
+            {
+                include 't_int_ma_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ma_del")
+            {
+                include 't_int_ma_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_nz")
+            {
+                include 't_int_nz.php';
+            }
+            elseif ($_GET['halaman']=="t_int_nz_edit")
+            {
+                include 't_int_nz_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_nz_del")
+            {
+                include 't_int_nz_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_om")
+            {
+                include 't_int_om.php';
+            }
+            elseif ($_GET['halaman']=="t_int_om_edit")
+            {
+                include 't_int_om_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_om_del")
+            {
+                include 't_int_om_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ph")
+            {
+                include 't_int_ph.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ph_edit")
+            {
+                include 't_int_ph_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_ph_del")
+            {
+                include 't_int_ph_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_qt")
+            {
+                include 't_int_qt.php';
+            }
+            elseif ($_GET['halaman']=="t_int_qt_edit")
+            {
+                include 't_int_qt_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_qt_del")
+            {
+                include 't_int_qt_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_rb")
+            {
+                include 't_int_rb.php';
+            }
+            elseif ($_GET['halaman']=="t_int_rb_edit")
+            {
+                include 't_int_rb_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_rb_del")
+            {
+                include 't_int_rb_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_sc")
+            {
+                include 't_int_sc.php';
+            }
+            elseif ($_GET['halaman']=="t_int_sc_edit")
+            {
+                include 't_int_sc_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_sc_del")
+            {
+                include 't_int_sc_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_tp")
+            {
+                include 't_int_tp.php';
+            }
+            elseif ($_GET['halaman']=="t_int_tp_edit")
+            {
+                include 't_int_tp_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_tp_del")
+            {
+                include 't_int_tp_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_tk")
+            {
+                include 't_int_tk.php';
+            }
+            elseif ($_GET['halaman']=="t_int_tk_edit")
+            {
+                include 't_int_tk_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_tk_del")
+            {
+                include 't_int_tk_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_us")
+            {
+                include 't_int_us.php';
+            }
+            elseif ($_GET['halaman']=="t_int_us_edit")
+            {
+                include 't_int_us_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_us_del")
+            {
+                include 't_int_us_del.php';
+            }
             elseif ($_GET['halaman']=="logout") {
                 session_destroy();
                 echo "<script>location='';</script>";

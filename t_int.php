@@ -155,7 +155,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_et" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -167,7 +167,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_eh" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -179,7 +179,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_ev" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -191,7 +191,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_gr" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -203,19 +203,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
-            </div>
-          </div>
-
-          <div class="col-12 col-sm-6 col-md-3">
-            <div class="small-box bg-light">
-              <div class="inner">
-                <h3>Hahn</h3>
-              </div>
-              <div class="icon">
-                <i class="fas fa-book"></i>
-              </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_ha" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -227,7 +215,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_hw" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -239,7 +227,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_hk" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -251,7 +239,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_ic" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -263,7 +251,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_jp" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -275,7 +263,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_js" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -287,7 +275,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_kn" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -299,7 +287,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_ko" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -311,7 +299,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_ma" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -323,7 +311,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_anz" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_nz" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -335,7 +323,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_om" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -347,7 +335,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_ph" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -371,7 +359,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_qt" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -383,7 +371,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_rb" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -395,7 +383,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_sc" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -419,7 +407,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_tp" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -443,7 +431,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_tk" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -455,7 +443,7 @@
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_us" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>    
 
