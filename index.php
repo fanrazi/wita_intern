@@ -132,6 +132,38 @@ include './inc/koneksi.php';
             {
                 include 'hotel.php';
             }
+            elseif ($_GET['halaman']=="h_p")
+            {
+                include 'h_p.php';
+            }
+            elseif ($_GET['halaman']=="h_p_add")
+            {
+                include 'h_p_add.php';
+            }
+            elseif ($_GET['halaman']=="h_p_edit")
+            {
+                include 'h_p_edit.php';
+            }
+            elseif ($_GET['halaman']=="h_p_del")
+            {
+                include 'h_p_del.php';
+            }
+            elseif ($_GET['halaman']=="t_p")
+            {
+                include 't_p.php';
+            }
+            elseif ($_GET['halaman']=="t_p_add")
+            {
+                include 't_p_add.php';
+            }
+            elseif ($_GET['halaman']=="t_p_edit")
+            {
+                include 't_p_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_p_del")
+            {
+                include 't_p_del.php';
+            }
             elseif ($_GET['halaman']=="h_dom")
             {
                 include 'h_dom.php';
@@ -592,6 +624,22 @@ include './inc/koneksi.php';
             {
                 include 'oth_t_del.php';
             }
+            elseif ($_GET['halaman']=="oth_hi")
+            {
+                include 'oth_hi.php';
+            }
+            elseif ($_GET['halaman']=="oth_hi_add")
+            {
+                include 'oth_hi_add.php';
+            }
+            elseif ($_GET['halaman']=="oth_hi_edit")
+            {
+                include 'oth_hi_edit.php';
+            }
+            elseif ($_GET['halaman']=="oth_hi_del")
+            {
+                include 'oth_hi_del.php';
+            }
             elseif ($_GET['halaman']=="pop")
             {
                 include 'news.php';
@@ -607,6 +655,30 @@ include './inc/koneksi.php';
             elseif ($_GET['halaman']=="n_del")
             {
                 include 'n_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_af")
+            {
+                include 't_int_af.php';
+            }
+            elseif ($_GET['halaman']=="t_int_af_edit")
+            {
+                include 't_int_af_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_af_del")
+            {
+                include 't_int_af_del.php';
+            }
+            elseif ($_GET['halaman']=="t_int_am")
+            {
+                include 't_int_am.php';
+            }
+            elseif ($_GET['halaman']=="t_int_am_edit")
+            {
+                include 't_int_am_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_int_am_del")
+            {
+                include 't_int_am_del.php';
             }
             elseif ($_GET['halaman']=="logout") {
                 session_destroy();

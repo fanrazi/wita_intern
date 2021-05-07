@@ -51,6 +51,12 @@
                   <p>International</p>
                 </a>
               </li>
+              <li class="nav-item">
+                <a href="index_tic.php?halaman=t_p" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Promo</p>
+                </a>
+              </li>
             </ul>
           </li>
 

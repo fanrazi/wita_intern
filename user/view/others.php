@@ -60,6 +60,19 @@
             </div>
           </div>
 
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h5>Health &</h5>
+                <h5>Insurance</h5>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index_coun.php?halaman=oth_hi" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
         </div>
       </div>
     </section>

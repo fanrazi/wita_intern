@@ -121,6 +121,12 @@
                   <p>International</p>
                 </a>
               </li>
+              <li class="nav-item">
+                <a href="index.php?halaman=h_p" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Promo</p>
+                </a>
+              </li>
             </ul>
           </li>
 
@@ -168,6 +174,12 @@
                 <a href="index.php?halaman=t_int" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>International</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="index.php?halaman=t_p" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Promo</p>
                 </a>
               </li>
             </ul>
@@ -271,6 +283,12 @@
                 <a href="index.php?halaman=oth_t" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Transport</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="index.php?halaman=oth_hi" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Health & Insurance</p>
                 </a>
               </li>
             </ul>

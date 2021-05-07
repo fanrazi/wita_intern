@@ -23,6 +23,14 @@ include './inc/koneksi.php';
             elseif ($_GET['halaman']=="h_dom")
             {
                 include './user/view/h_dom.php';
+            }
+            elseif ($_GET['halaman']=="h_p")
+            {
+                include './user/view/h_p.php';
+            }    
+            elseif ($_GET['halaman']=="oth_hi")
+            {
+                include './user/view/oth_hi.php';
             }            
             elseif ($_GET['halaman']=="h_dom_detail")
             {
@@ -71,6 +79,10 @@ include './inc/koneksi.php';
             elseif ($_GET['halaman']=="tic")
             {
                 include './user/view/ticket.php';
+            }
+            elseif ($_GET['halaman']=="t_p")
+            {
+                include './user/view/t_p.php';
             }
             elseif ($_GET['halaman']=="t_dom")
             {

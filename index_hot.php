@@ -20,6 +20,22 @@ include './inc/koneksi.php';
             {
                 include './user/hotel/hotel.php';
             }
+            elseif ($_GET['halaman']=="h_p")
+            {
+                include './user/hotel/h_p.php';
+            }
+            elseif ($_GET['halaman']=="h_p_add")
+            {
+                include './user/hotel/h_p_add.php';
+            }
+            elseif ($_GET['halaman']=="h_p_edit")
+            {
+                include './user/hotel/h_p_edit.php';
+            }
+            elseif ($_GET['halaman']=="h_p_del")
+            {
+                include './user/hotel/h_p_del.php';
+            }
             elseif ($_GET['halaman']=="h_dom")
             {
                 include './user/hotel/h_dom.php';

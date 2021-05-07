@@ -20,6 +20,22 @@ include './inc/koneksi.php';
             {
                 include './user/tic/ticket.php';
             }
+            elseif ($_GET['halaman']=="t_p")
+            {
+                include './user/tic/t_p.php';
+            }
+            elseif ($_GET['halaman']=="t_p_add")
+            {
+                include './user/tic/t_p_add.php';
+            }
+            elseif ($_GET['halaman']=="t_p_edit")
+            {
+                include './user/tic/t_p_edit.php';
+            }
+            elseif ($_GET['halaman']=="t_p_del")
+            {
+                include './user/tic/t_p_del.php';
+            }
             elseif ($_GET['halaman']=="t_dom")
             {
                 include './user/tic/t_dom.php';

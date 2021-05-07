@@ -30,48 +30,12 @@
           <div class="col-12 col-sm-6 col-md-3">
             <div class="small-box bg-light">
               <div class="inner">
-                <h3>CX</h3>
+                <h3>AF/KL</h3>
               </div>
               <div class="icon">
                 <i class="fas fa-book"></i>
               </div>
-              <a href="index.php?halaman=t_int_cx" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
-            </div>
-          </div>
-
-          <div class="col-12 col-sm-6 col-md-3">
-            <div class="small-box bg-light">
-              <div class="inner">
-                <h3>Emirates</h3>
-              </div>
-              <div class="icon">
-                <i class="fas fa-book"></i>
-              </div>
-              <a href="index.php?halaman=t_int_emi" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
-            </div>
-          </div>
-
-          <div class="col-12 col-sm-6 col-md-3">
-            <div class="small-box bg-light">
-              <div class="inner">
-                <h3>SQ</h3>
-              </div>
-              <div class="icon">
-                <i class="fas fa-book"></i>
-              </div>
-              <a href="index.php?halaman=t_int_sq" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
-            </div>
-          </div>
-
-          <div class="col-12 col-sm-6 col-md-3">
-            <div class="small-box bg-light">
-              <div class="inner">
-                <h3>Qantas</h3>
-              </div>
-              <div class="icon">
-                <i class="fas fa-book"></i>
-              </div>
-              <a href="index.php?halaman=t_int_qan" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="index.php?halaman=t_int_af" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
 
@@ -90,6 +54,378 @@
           <div class="col-12 col-sm-6 col-md-3">
             <div class="small-box bg-light">
               <div class="inner">
+                <h3>American</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_am" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Asiana</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_as" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Bangkok</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_ba" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>China</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_ca" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>China S.</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Canada</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_ac" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>CX</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cx" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>  
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Emirates</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_emi" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>      
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Ethiopian</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Etihad</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Eva</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Garuda</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Hahn</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Hahn</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Hawaian</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Hongkong</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Iceland</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Japan</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Jet Star</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Kenya</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Korean</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Malaysian</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>New Zealand</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_anz" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Oman</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Phliphine</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Qantas</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_qan" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Qatar</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Royal Brunei</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Scoot</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>SQ</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_sq" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Tap Portugal</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
                 <h3>Thai</h3>
               </div>
               <div class="icon">
@@ -98,6 +434,30 @@
               <a href="index.php?halaman=t_int_tha" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Turkish</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>United</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=t_int_cs" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>    
 
         </div>
       </div>

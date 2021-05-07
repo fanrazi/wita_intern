@@ -5,7 +5,7 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1 class="m-0 text-dark">All Nippon Airways</h1>
+            <h1 class="m-0 text-dark">American</h1>
           </div><!-- /.col -->
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
@@ -13,7 +13,7 @@
               <li class="breadcrumb-item active"><a href="index.php">Dashboard</a></li>
               <li class="breadcrumb-item active"><a href="index.php?halaman=tic">Ticket</a></li>
               <li class="breadcrumb-item active"><a href="index.php?halaman=t_int">International Ticket</a></li>
-              <li class="breadcrumb-item active">ANA</li>
+              <li class="breadcrumb-item active">American</li>
             </ol>
           </div><!-- /.col -->
         </div><!-- /.row -->
@@ -36,7 +36,7 @@
         <tbody>
             <?php $nomor=1;?>
             <?php $ambil = $koneksi->query("SELECT * FROM airlines JOIN tiket_int
-                        ON airlines.id=tiket_int.id_mas WHERE tiket_int.id_mas=5");?>
+                        ON airlines.id=tiket_int.id_mas WHERE tiket_int.id_mas=10");?>
             <?php while($pecah = $ambil-> fetch_assoc()){?>
             <tr>
               <td><?php echo $nomor; ?></td>
@@ -46,10 +46,10 @@
                   </a>
               </td>
               <td>
-                <a href="index.php?halaman=t_int_ana_edit&id=<?php echo $pecah['id']; ?>">
+                <a href="index.php?halaman=t_int_am_edit&id=<?php echo $pecah['id']; ?>">
                   <button class="btn btn-success btn-sm"> <i class="fa fa-edit"></i></button>
                 </a>
-                <a href="index.php?halaman=t_int_ana_del&id=<?php echo $pecah['id']; ?>">
+                <a href="index.php?halaman=t_int_am_del&id=<?php echo $pecah['id']; ?>">
                   <button class="btn btn-danger btn-sm"> <i class="fa fa-trash"></i></button>
                 </a>
               </td>

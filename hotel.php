@@ -51,6 +51,19 @@
               <a href="index.php?halaman=h_int" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+
+            <div class="small-box bg-light">
+              <div class="inner">
+                <h3>Promo</h3>
+              </div>
+              <div class="icon">
+                <i class="fas fa-book"></i>
+              </div>
+              <a href="index.php?halaman=h_p" class="small-box-footer">View <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
           <!-- /.col -->
         </div>
         <!-- /.row -->
