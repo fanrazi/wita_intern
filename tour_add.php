@@ -76,7 +76,7 @@
     
     ?>
     
-    <a href="index.php?halaman=tou">
+    <a href="index.php?halaman=tou_tb">
       <button style="margin-bottom: 20px;" class="btn btn-danger"> <i class="fa fa-undo"></i></button>
     </a>
   </div>

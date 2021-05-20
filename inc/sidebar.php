@@ -192,65 +192,23 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="index.php?halaman=tou_er" class="nav-link">
+                <a href="index.php?halaman=tou_nn" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Europe</p>
+                  <p>New Normal</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="index.php?halaman=tou_me" class="nav-link">
+                <a href="index.php?halaman=tou_tb" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Middle East</p>
+                  <p>Tour Book</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="index.php?halaman=tou_us" class="nav-link">
+                <a href="index.php?halaman=tou_sv" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>USA</p>
+                  <p>Syarat VISA</p>
                 </a>
-              </li>
-              <li class="nav-item">
-                <a href="index.php?halaman=tou_sa" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>South Africa</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="index.php?halaman=tou_an" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Australia & New Zealand</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="index.php?halaman=tou_jap" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Japan</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="index.php?halaman=tou_kor" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Korea</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="index.php?halaman=tou_tai" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Taiwan</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="index.php?halaman=tou_chi" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>China</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="index.php?halaman=tou_oa" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Other Asia</p>
-                </a>
-              </li>
+              </li>              
             </ul>
           </li>
 

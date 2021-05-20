@@ -1016,6 +1016,18 @@ include './inc/koneksi.php';
             {
                 include 't_int_us_del.php';
             }
+            elseif ($_GET['halaman']=="tou_nn")
+            {
+                include 'tou_nn.php';
+            }
+            elseif ($_GET['halaman']=="tou_tb")
+            {
+                include 'tou_tb.php';
+            }
+            elseif ($_GET['halaman']=="tou_sv")
+            {
+                include 'tou_sv.php';
+            }
             elseif ($_GET['halaman']=="logout") {
                 session_destroy();
                 echo "<script>location='';</script>";
